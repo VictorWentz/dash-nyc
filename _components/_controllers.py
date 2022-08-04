@@ -16,7 +16,7 @@ list_of_locations = {
 
 variable_control = ['YEAR BUILT', 'TOTAL UNITS', 'SALE PRICE']
 
-slider_size = [100, 500, 1000, 10000, 1000000]
+slider_size = [1000, 5000, 10000, 100000, 10000000]
 
 controlers = dbc.Row([
 

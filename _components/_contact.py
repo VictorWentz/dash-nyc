@@ -23,7 +23,7 @@ contatoVictor = dbc.Card(
                                 className="card-text",
                             ),
                             html.Small([
-                                dbc.CardLink("Linkdin", href="https://www.linkedin.com/in/victor-wentz/")
+                                dbc.CardLink("Linkedin", href="https://www.linkedin.com/in/victor-wentz/")
                             ],
                                 
                                 className="card-text text-muted",
@@ -60,7 +60,7 @@ contatoVini = dbc.Card(
                                 className="card-text",
                             ),
                             html.Small([
-                                dbc.CardLink("Linkdin", href="https://www.linkedin.com/in/vinicios-wentz-b507828a/")
+                                dbc.CardLink("Linkedin", href="https://www.linkedin.com/in/vinicios-wentz-b507828a/")
                             ],
                                 
                                 className="card-text text-muted",
